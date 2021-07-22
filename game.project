@@ -69,5 +69,5 @@ max_count = 1024
 max_debug_vertices = 20000
 
 [library]
-include_dirs = Water2D
+include_dirs = defluid
 
